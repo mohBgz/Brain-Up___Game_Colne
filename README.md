@@ -2,17 +2,18 @@
 This is my very first project when it comes to game development with a user graphic interface (GUI) , it's made with the C language using SDL library  
 
 You can check out the original game on mobile at Amzaon strore : brain Up https://www.amazon.com/Rationalcell-Brain-Up/dp/B00B2BSF12
+
 please note that this whole project is an upgraded clone for a particulare mode of that game not the whole game .
+You Can find the game at the "master" baranch .
+
 --------------------------------------------------------------------------------------------------------------------------------------
-
 Epilepsy warning : watch out when you quit he game because the screen becomes flashy !! 
-
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 HOW TO RUN The Game : 
-----
----
- * open either cmd or powerShell and follow these easy 5 steps :
+---------------------
+
+ open either cmd or powerShell and follow these easy 5 steps :
 	
 	1- cd the downloaded (cloned ) repository
 		$ cd ["path to the folder that you download"]
