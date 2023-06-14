@@ -4,19 +4,19 @@ HOW TO RUN The Game :
 ----
 ---
 
- 1- Download GCC compiler 
+ 1- Download GCC compiler: 
  	
 	- go to http://winlibs.com : 
 
-	- scroll down to "Release versions" 
+	- scroll down to "Release versions" .
 
-	- choose the lastest relase "Win64 - Without LLVM/Clang/LLD/LLDB"  Version . 
+	- choose the "GCC 12.2.0" x64 Version -- without LLVM/Clang/LLD/LLDB. 
 	
-2 -add GCC (bin)  to your PATH system variable -- easy to do .
+2 -add GCC (bin)  to your PATH system variable -- easy to do.
 
-3 - download on clone the repo
+3 - download or clone the repo.
 
-4- open any command line (Cmd, PowerShell, Git Bash) in and download repo 
+4- open any command line (Cmd, PowerShell, Git Bash) in and download repo.
 
 5 -  follow these easy 2 steps to lunch the game :
 	
